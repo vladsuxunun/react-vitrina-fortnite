@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-vitrina-fortnite/static/css/main.0aaf352e.css",
+    "main.js": "/react-vitrina-fortnite/static/js/main.1e5f2557.js",
+    "index.html": "/react-vitrina-fortnite/index.html",
+    "main.0aaf352e.css.map": "/react-vitrina-fortnite/static/css/main.0aaf352e.css.map",
+    "main.1e5f2557.js.map": "/react-vitrina-fortnite/static/js/main.1e5f2557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aaf352e.css",
+    "static/js/main.1e5f2557.js"
+  ]
+}
